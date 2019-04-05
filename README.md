@@ -1,2 +1,5 @@
 # hello-world
-new project
+
+Hello,
+
+My name is richie and I am a coding noob learning how to use github.
